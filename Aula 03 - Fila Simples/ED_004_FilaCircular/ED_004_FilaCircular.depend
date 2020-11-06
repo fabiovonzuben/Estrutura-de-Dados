@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1377645598 source:/Users/marcosnava/projetosCB/ED_004_FilaCircular/main.c
+	<stdio.h>
+	<stdlib.h>
+
